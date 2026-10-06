@@ -1,14 +1,14 @@
-# Summary
+# Table of contents
 
 * [Acerca de mí](README.md)
 
-## Módulo 1. Herramientas de documentación
+## Módulo 1. Herramientas de documentación (Mac OS)
 
-* [Github y Gitbook](modulo-1/github-y-gitbook.md)
-* [Picsart](modulo-1/picsart.md)
-* [Capcut](modulo-1/capcut.md)
-* [OBS](modulo-1/obs.md)
-* [Capturador de pantalla](modulo-1/capturador-de-pantalla.md)
+* [Github y Gitbook](modulo-1.-herramientas-de-documentacion-mac-os/github-y-gitbook.md)
+* [Affinity: Image editor](modulo-1.-herramientas-de-documentacion-mac-os/picsart.md)
+* [iMovie : Video editing](modulo-1.-herramientas-de-documentacion-mac-os/capcut.md)
+* [OBS : Screen record](modulo-1.-herramientas-de-documentacion-mac-os/obs.md)
+* [Lightshot : Screenshot](modulo-1.-herramientas-de-documentacion-mac-os/capturador-de-pantalla.md)
 
 ## Módulo 2. Corte láser
 
