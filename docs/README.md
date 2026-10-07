@@ -15,5 +15,5 @@ Soy una becaria de la beca Fulbright-BECAL y tengo mas de 10 años de experienci
 
 Aquí documentaré todo mi proceso de aprendizaje, proyectos y herramientas que utilicé para desarrollarlos. Espero que te sea de ayuda!
 
-Clic abajo para continuar ;)
+Click abajo para continuar ;)
 

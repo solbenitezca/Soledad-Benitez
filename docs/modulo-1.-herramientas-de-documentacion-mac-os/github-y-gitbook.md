@@ -4,6 +4,18 @@ icon: github
 
 # Github y Gitbook
 
+## Index
+
+1. Introduccion
+2. Crear una cuenta en Github
+3. Crear una cuenta en Gitbook
+4. Conectar Github a Gitbook
+5. Crear mi wiki
+
+
+
+
+
 La creación de esta guía consiste en crear una cuenta en [Github](https://github.com/) y una en [Gitbook](https://www.gitbook.com/)\
 \
 [Mi Github](https://github.com/solbenitezca/Soledad-Benitez)\
