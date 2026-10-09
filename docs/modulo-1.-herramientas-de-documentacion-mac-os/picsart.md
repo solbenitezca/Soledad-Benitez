@@ -16,7 +16,7 @@ icon: camera
 
 ## 1. Introducción <a href="#introduccion" id="introduccion"></a>
 
-Para la edición de imagen elegí **Affinity**, un programa de diseño para Mac que permite trabajar con vectores y con fotos en el mismo archivo. Lo usé para diseñar la imagen de portada (header) de la página "Acerca de mí" de esta wiki.
+Para la edición de imagen elegí **Affinity**, un programa de diseño para Mac que permite trabajar con vectores y con fotos en el mismo archivo. Lo usé para diseñar la imagen de portada (header) de la página "Acerca de mí" de esta wiki, a partir de una foto.
 
 En este video se ve todo el proceso de edición, grabado con OBS:
 
@@ -44,48 +44,85 @@ Al abrirlo aparece la pantalla de inicio, desde donde se crea un documento nuevo
 {% step %}
 ### Nuevo documento
 
-Ir a **File → New** (Cmd + N).
+En la pantalla de inicio, hacer clic en el botón verde **+** (o ir a **File → New**, Cmd + N).
 {% endstep %}
 
 {% step %}
 ### Definir el tamaño
 
-Gitbook recomienda que las portadas midan **1990 × 480 px**, así que configuré el documento con esas medidas, en píxeles.
+Gitbook recomienda que las portadas midan **1990 × 480 px**. En el panel de la derecha configuré:
+
+* **Document units:** Pixels
+* **Page width:** 1990 px
+* **Page height:** 480 px
+* **Color format:** RGB/8
+{% endstep %}
+
+{% step %}
+### Crear
+
+Hacer clic en **Create Document**.
 {% endstep %}
 {% endstepper %}
 
-{% hint style="warning" %}
-Gitbook recorta la portada según el ancho de la pantalla. Conviene dejar lo importante en el centro y no poner texto cerca de los bordes.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.53.25 AM.png" alt="Ventana de nuevo documento en Affinity con las medidas 1990 por 480 px"><figcaption><p>Configuración del documento: 1990 × 480 px</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.53.25 AM.png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+Gitbook recorta la portada según el ancho de la pantalla. Conviene dejar lo importante en el centro y no poner texto pegado a los bordes.
+{% endhint %}
 
 ## 4. Diseñar la portada <a href="#disenar-la-portada" id="disenar-la-portada"></a>
 
+La portada tiene tres capas: una foto de fondo, un degradado oscuro y los textos.
+
 {% stepper %}
 {% step %}
-### Dibujar el fondo
+### Colocar la foto de fondo
 
-Con la herramienta de rectángulo, dibujar una forma que cubra todo el lienzo.
+Arrastrar la foto al lienzo (o **File → Place**) y ajustarla hasta que cubra todo el documento. Usé una foto de un dinosaurio de MDF cortado con láser.
 {% endstep %}
 
 {% step %}
-### Aplicar un degradado
+### Dibujar un rectángulo para el degradado
+
+Con la herramienta de rectángulo, dibujar una forma que cubra todo el lienzo, por encima de la foto.
+{% endstep %}
+
+{% step %}
+### Aplicar el degradado
 
 1. Seleccionar el rectángulo.
 2. Presionar **G** para activar la herramienta de relleno (Fill Tool).
-3. Hacer clic y arrastrar sobre la forma. El arrastre define la dirección y el largo del degradado.
-4. Hacer clic en cada extremo de la línea y elegir su color en el panel de color.
+3. Hacer clic y arrastrar de izquierda a derecha. El arrastre define la dirección y el largo del degradado.
+4. Hacer clic en cada extremo de la línea y elegir su color: transparente a la izquierda y negro a la derecha.
+
+En esta captura oculté la foto para que se vea solo el degradado:
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.54.31 AM.png" alt="Rectángulo con degradado de transparente a negro en Affinity"><figcaption><p>El degradado solo, con la capa de la foto oculta</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Ajustar
+### Revisar el degradado sobre la foto
 
-Haciendo clic sobre la línea se agregan más colores. En la barra superior se cambia el tipo de degradado: lineal, radial, elíptico o cónico.
+Al volver a mostrar la foto, el lado derecho queda oscuro. Ese espacio sirve para que el texto blanco se lea bien.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.55.01 AM.png" alt="Foto del dinosaurio con el degradado negro a la derecha"><figcaption><p>La foto con el degradado encima</p></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Agregar los textos
+
+Con la herramienta de texto, escribir el nombre y el correo en color blanco sobre la zona oscura, y ajustar su posición respecto a los bordes.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.56.13 AM.png" alt="Portada con los textos Soledad Benitez y el correo en blanco"><figcaption><p>La portada con los textos</p></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Ajustar el color
+
+Agregué una capa de ajuste de saturación y tono para corregir los colores de la foto.
 {% endstep %}
 {% endstepper %}
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.54.31 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Exportar la imagen <a href="#exportar-la-imagen" id="exportar-la-imagen"></a>
 
@@ -97,20 +134,6 @@ Ir a **File → Export**, elegir el formato **JPEG** y guardar.
 {% endstep %}
 
 {% step %}
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.55.01 AM.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### Agregar textos
-
-Agregar textos de color blanco y ajustar bordes.
-{% endstep %}
-
-{% step %}
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.56.13 AM.png" alt=""><figcaption></figcaption></figure>
-
 ### Subir a Gitbook
 
 En Gitbook, abrir la página, hacer clic en **Add cover** arriba del título y subir la imagen.
