@@ -137,9 +137,8 @@ Organicé la wiki en módulos, y cada módulo tiene sus páginas:
 
 * Acerca de mí
 * Módulo 1. Herramientas de documentación (Mac OS)
-* Módulo 2. Corte láser
-* Módulo 3. Impresión 3D
-* Módulo 4. Plotter de corte
+
+Los demás módulos los voy a ir agregando a medida que avance la pasantía.
 
 Cada página tiene un ícono, que se elige haciendo clic al lado del título.
 {% endstep %}
