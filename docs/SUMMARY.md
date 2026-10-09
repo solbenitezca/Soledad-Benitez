@@ -8,4 +8,4 @@
 * [Affinity: Image editor](modulo-1.-herramientas-de-documentacion-mac-os/picsart.md)
 * [iMovie : Video editing](modulo-1.-herramientas-de-documentacion-mac-os/capcut.md)
 * [OBS : Screen record](modulo-1.-herramientas-de-documentacion-mac-os/obs.md)
-* [Lightshot : Screenshot3](modulo-1.-herramientas-de-documentacion-mac-os/capturador-de-pantalla.md)
+* [Lightshot : Screenshot](modulo-1.-herramientas-de-documentacion-mac-os/capturador-de-pantalla.md)

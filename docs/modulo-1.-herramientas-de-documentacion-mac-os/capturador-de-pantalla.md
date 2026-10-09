@@ -3,7 +3,7 @@ description: Cómo tomo capturas de pantalla con Lightshot, paso a paso
 icon: desktop
 ---
 
-# Lightshot : Screenshot3
+# Lightshot : Screenshot
 
 ## Índice
 
