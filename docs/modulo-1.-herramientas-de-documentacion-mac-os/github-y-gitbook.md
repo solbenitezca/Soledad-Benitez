@@ -58,9 +58,13 @@ Al terminar, el repositorio queda disponible en una dirección como `github.com/
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: pantalla de "New repository" y el repositorio ya creado.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 9.35.57 AM.png" alt=""><figcaption><p>Crear nuevo repositorio</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 9.36.15 AM.png" alt=""><figcaption><p>Repositorio creado</p></figcaption></figure>
+
+
 
 ## 3. Crear una cuenta en Gitbook <a href="#crear-una-cuenta-en-gitbook" id="crear-una-cuenta-en-gitbook"></a>
 
@@ -84,9 +88,7 @@ La cuenta empieza con una prueba gratuita de 14 días del plan más completo. Al
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: panel inicial de Gitbook con el sitio creado.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 9.38.03 AM.png" alt=""><figcaption><p>gitbook en modo de edicion</p></figcaption></figure>
 
 ## 4. Conectar Github a Gitbook <a href="#conectar-github-a-gitbook" id="conectar-github-a-gitbook"></a>
 
@@ -124,10 +126,6 @@ En mi caso la estructura de módulos ya estaba en Github, así que elegí GitHub
 Cuando termina, arriba aparece el estado **Synced**. Desde ese momento los cambios viajan en las dos direcciones.
 {% endstep %}
 {% endstepper %}
-
-{% hint style="info" %}
-📸 Captura pendiente: ventana de configuración de Git Sync y el indicador "Synced".
-{% endhint %}
 
 ## 5. Crear mi wiki <a href="#crear-mi-wiki" id="crear-mi-wiki"></a>
 
@@ -169,9 +167,7 @@ Con el botón **Publish** el sitio queda público y Gitbook le asigna una direcc
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: editor con un change request abierto y el sitio publicado.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 9.38.49 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Problemas que tuve y cómo los resolví <a href="#problemas-que-tuve" id="problemas-que-tuve"></a>
 

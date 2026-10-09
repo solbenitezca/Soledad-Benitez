@@ -54,7 +54,7 @@ Arrastrar el clip desde la biblioteca hasta la línea de tiempo, en la parte inf
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.49.28 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.49.28 AM.png" alt=""><figcaption><p>Video cortado con Cmd + B</p></figcaption></figure>
 
 ## 4. Cortar el video <a href="#cortar-el-video" id="cortar-el-video"></a>
 
@@ -110,7 +110,7 @@ En el menú **Speed** elegir **Fast** y luego 2x, 4x, 8x o 20x. Con **Custom** s
 Al acelerar, el audio suena más agudo. Se corrige tildando **Preserve Pitch**, o silenciando el clip si el sonido no importa.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.50.13 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.50.13 AM.png" alt=""><figcaption><p>Acercamiento del menu de velocidad (mirar iconos y menu arriba)</p></figcaption></figure>
 
 ## 6. Exportar <a href="#exportar" id="exportar"></a>
 
@@ -142,9 +142,7 @@ Video del recorrido del FabLab, editado y acelerado en iMovie:
 
 {% file src="../.gitbook/assets/Video-speed-up-del-recorrido.mp4" %}
 
-También edité en iMovie el video de la edición de imagen en Affinity:
 
-{% embed url="https://youtu.be/rkUOayVnlc8" %}
 
 ## 8. Problemas que tuve y cómo los resolví <a href="#problemas-que-tuve" id="problemas-que-tuve"></a>
 

@@ -65,7 +65,9 @@ Hacer clic en **Create Document**.
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.53.25 AM.png" alt="Ventana de nuevo documento en Affinity con las medidas 1990 por 480 px"><figcaption><p>Configuración del documento: 1990 × 480 px</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.53.25 AM.png" alt="Ventana de nuevo documento en Affinity con las medidas 1990 por 480 px"><figcaption><p>Affinity, crear nuevo documento 1990 x 480 px</p></figcaption></figure>
+
+
 
 {% hint style="warning" %}
 Gitbook recorta la portada según el ancho de la pantalla. Conviene dejar lo importante en el centro y no poner texto pegado a los bordes.

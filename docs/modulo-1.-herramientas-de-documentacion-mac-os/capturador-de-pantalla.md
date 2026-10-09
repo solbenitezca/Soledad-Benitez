@@ -3,7 +3,7 @@ description: Cómo tomo capturas de pantalla con Lightshot, paso a paso
 icon: desktop
 ---
 
-# Lightshot : Screenshot
+# Lightshot : Screenshot3
 
 ## Índice
 
@@ -73,7 +73,7 @@ Al seleccionar el área aparece una barra de herramientas al costado:
 | Color       | Cambiar el color de las anotaciones  |
 | Deshacer    | Borrar la última anotación (Cmd + Z) |
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.41.48 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.41.48 AM.png" alt=""><figcaption><p>Menu de Lightshot que aparece al hacer un screenshot</p></figcaption></figure>
 
 ## 5. Guardar y usar la captura <a href="#guardar-y-usar" id="guardar-y-usar"></a>
 
