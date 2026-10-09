@@ -30,6 +30,8 @@ Mis enlaces:
 
 Utilicé a Claude para que me ayude con el setup. Este fue el prompt que le di:
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-06 at 10.49.27 AM.png" alt="Prompt que le di a Claude para el setup"><figcaption><p>Prompt para Claude</p></figcaption></figure>
+
 ## 2. Crear una cuenta en Github <a href="#crear-una-cuenta-en-github" id="crear-una-cuenta-en-github"></a>
 
 {% stepper %}
