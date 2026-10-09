@@ -62,20 +62,18 @@ Hacer clic y arrastrar para marcar la parte de la pantalla que se quiere captura
 
 Al seleccionar el área aparece una barra de herramientas al costado:
 
-| Herramienta | Para qué sirve                          |
-| ----------- | --------------------------------------- |
-| Lápiz       | Dibujar a mano alzada                   |
-| Línea       | Trazar líneas rectas                    |
-| Flecha      | Señalar un botón o un elemento          |
-| Rectángulo  | Encerrar una zona                       |
-| Marcador    | Resaltar texto                          |
-| Texto       | Escribir una nota sobre la imagen       |
-| Color       | Cambiar el color de las anotaciones     |
-| Deshacer    | Borrar la última anotación (Cmd + Z)    |
+| Herramienta | Para qué sirve                       |
+| ----------- | ------------------------------------ |
+| Lápiz       | Dibujar a mano alzada                |
+| Línea       | Trazar líneas rectas                 |
+| Flecha      | Señalar un botón o un elemento       |
+| Rectángulo  | Encerrar una zona                    |
+| Marcador    | Resaltar texto                       |
+| Texto       | Escribir una nota sobre la imagen    |
+| Color       | Cambiar el color de las anotaciones  |
+| Deshacer    | Borrar la última anotación (Cmd + Z) |
 
-{% hint style="info" %}
-📸 Captura pendiente: un área seleccionada con la barra de herramientas visible.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.41.48 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Guardar y usar la captura <a href="#guardar-y-usar" id="guardar-y-usar"></a>
 

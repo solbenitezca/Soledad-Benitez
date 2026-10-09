@@ -54,9 +54,7 @@ Arrastrar el clip desde la biblioteca hasta la línea de tiempo, en la parte inf
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: el clip importado y colocado en la línea de tiempo.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.49.28 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Cortar el video <a href="#cortar-el-video" id="cortar-el-video"></a>
 
@@ -112,9 +110,7 @@ En el menú **Speed** elegir **Fast** y luego 2x, 4x, 8x o 20x. Con **Custom** s
 Al acelerar, el audio suena más agudo. Se corrige tildando **Preserve Pitch**, o silenciando el clip si el sonido no importa.
 {% endhint %}
 
-{% hint style="info" %}
-📸 Captura pendiente: el menú de velocidad abierto.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.50.13 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Exportar <a href="#exportar" id="exportar"></a>
 

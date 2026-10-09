@@ -58,9 +58,7 @@ Gitbook recomienda que las portadas midan **1990 × 480 px**, así que configur�
 Gitbook recorta la portada según el ancho de la pantalla. Conviene dejar lo importante en el centro y no poner texto cerca de los bordes.
 {% endhint %}
 
-{% hint style="info" %}
-📸 Captura pendiente: ventana de "New document" con las medidas.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.53.25 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Diseñar la portada <a href="#disenar-la-portada" id="disenar-la-portada"></a>
 
@@ -85,17 +83,9 @@ Con la herramienta de rectángulo, dibujar una forma que cubra todo el lienzo.
 
 Haciendo clic sobre la línea se agregan más colores. En la barra superior se cambia el tipo de degradado: lineal, radial, elíptico o cónico.
 {% endstep %}
-
-{% step %}
-### Agregar los demás elementos
-
-Sobre el fondo coloqué el resto de los elementos de la portada.
-{% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: el lienzo con el degradado y la herramienta de relleno activa.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.54.31 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Exportar la imagen <a href="#exportar-la-imagen" id="exportar-la-imagen"></a>
 
@@ -107,6 +97,20 @@ Ir a **File → Export**, elegir el formato **JPEG** y guardar.
 {% endstep %}
 
 {% step %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.55.01 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### Agregar textos
+
+Agregar textos de color blanco y ajustar bordes.
+{% endstep %}
+
+{% step %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.56.13 AM.png" alt=""><figcaption></figcaption></figure>
+
 ### Subir a Gitbook
 
 En Gitbook, abrir la página, hacer clic en **Add cover** arriba del título y subir la imagen.

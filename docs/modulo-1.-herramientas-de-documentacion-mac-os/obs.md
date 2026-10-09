@@ -76,9 +76,7 @@ En **Settings → Output → Recording Format** elegir **MP4**, que es el format
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: el panel Sources con "macOS Screen Capture" y la ventana de propiedades.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.45.58 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Dar permisos en Mac OS <a href="#dar-permisos" id="dar-permisos"></a>
 
@@ -116,9 +114,7 @@ Ir a **File → Show Recordings**. Por defecto los videos se guardan en la carpe
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-📸 Captura pendiente: OBS grabando, con el botón "Stop Recording" visible.
-{% endhint %}
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-09 at 8.44.11 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Editar la grabación <a href="#editar-la-grabacion" id="editar-la-grabacion"></a>
 
